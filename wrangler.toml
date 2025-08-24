@@ -1,6 +1,0 @@
-name = "thelonelyguide-to-the-worldsend"
-account_id = "07f60a7cc67675b73c63a95dfd8bff13" # Cloudflareダッシュボードで確認
-compatibility_date = "2025-08-24"
-[assets]
-directory = "Build" # Unity WebGLビルドの出力フォルダ（例: Builds/WebGL）
-binding = "ASSETS"

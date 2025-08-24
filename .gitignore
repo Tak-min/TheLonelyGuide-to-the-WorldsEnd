@@ -1,0 +1,2 @@
+# worker フォルダを Git 管理対象外にします
+worker/
